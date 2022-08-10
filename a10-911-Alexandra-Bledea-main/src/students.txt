@@ -1,0 +1,12 @@
+1231-432;Hermione Granger
+1433-421;Lord Voldemort
+1682-262;George Weasley
+2451-524;Luna Lovegood
+2451-534;Ginny Weasley
+2519-262;Lord Voldemort
+4325-423;Ginny Weasley
+6473-826;Lord Voldemort
+8888-777;Ale B
+9836-645;Fred Weasley
+9982-112;Fred Weasley
+9999-999;Adrian O

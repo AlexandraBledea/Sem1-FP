@@ -1,0 +1,11 @@
+03-24-473;Psychology
+12-34-123;Informatics
+12-43-436;Biology
+12-98-327;Chemistry
+21-76-298;Geography
+23-11-293;English
+42-23-327;History
+47-23-847;Mathematics
+78-12-324;Philosophy
+98-11-274;Physics
+99-99-999;Sport
