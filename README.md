@@ -1,1 +1,1 @@
-# Sem1-FP
+# Semester 1 - Fundamentals of Programming
